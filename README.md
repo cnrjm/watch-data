@@ -1,6 +1,6 @@
 # Watch Database Project
 
-![Watch Database Demo](assets/watch-data.mp4)
+![Watch Database Demo](assets/watch-data.gif)
 
 This project is a Python-based watch database that scrapes information from Chrono24 and stores it in a local database with a graphical user interface (GUI).
 
